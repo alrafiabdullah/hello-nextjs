@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
             target="_blank"
             href="https://nextjs.org/learn"
           >
-            our Next.js tutorial
+            Next.js tutorial
           </a>
           .)
         </p>
