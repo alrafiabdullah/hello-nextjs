@@ -13,11 +13,13 @@
 .headerImage {
   width: 6rem;
   height: 6rem;
+  border: 5px solid skyblue;
 }
 
 .headerHomeImage {
   width: 8rem;
   height: 8rem;
+  border: 5px solid skyblue;
 }
 
 .backToHome {
